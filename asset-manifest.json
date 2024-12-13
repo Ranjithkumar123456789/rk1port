@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rk1port/static/css/main.23b56a69.css",
+    "main.js": "/rk1port/static/js/main.8d634d6c.js",
+    "static/js/453.1b6cbde4.chunk.js": "/rk1port/static/js/453.1b6cbde4.chunk.js",
+    "static/media/ranjith1.jpg": "/rk1port/static/media/ranjith1.1e44ec3a39d243ed84e2.jpg",
+    "static/media/man.png": "/rk1port/static/media/man.f70e739ba09612930d64.png",
+    "static/media/portfolio.jpg": "/rk1port/static/media/portfolio.143af6787ca3d9233650.jpg",
+    "index.html": "/rk1port/index.html",
+    "main.23b56a69.css.map": "/rk1port/static/css/main.23b56a69.css.map",
+    "main.8d634d6c.js.map": "/rk1port/static/js/main.8d634d6c.js.map",
+    "453.1b6cbde4.chunk.js.map": "/rk1port/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b56a69.css",
+    "static/js/main.8d634d6c.js"
+  ]
+}
